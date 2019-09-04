@@ -30,6 +30,7 @@ class Monster
     {
       $this->power +=10;   
     }
+    
 
     //攻撃メソッド
     public function attack()

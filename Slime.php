@@ -16,6 +16,7 @@ class Slime extends Monster
         echo '<br>';
     }
 
+    
     public function evolution(){
         if($this->level >10 )
         echo 'キングスライムに進化';
